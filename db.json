@@ -1,7 +1,7 @@
 {
 "Profiles":[
-  {"id":1,"name":Sunny,"Age":21},
-{"id":2,"name":Amit,"Age":22},
-{"id":3,"name":Akshay,"Age":23},
+  {"id":1,"name":Sunny",Age":21},
+{"id":2,"name":Amit",Age":22},
+{"id":3,"name":Akshay",Age":23},
 ]
 }
